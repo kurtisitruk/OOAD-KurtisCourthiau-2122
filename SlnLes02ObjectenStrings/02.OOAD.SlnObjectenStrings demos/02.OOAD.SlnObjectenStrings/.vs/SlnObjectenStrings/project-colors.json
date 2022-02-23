@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0352dd87-e1a3-4a12-844e-c1a9a2a900aa": {
+      "ProjectGuid": "0352dd87-e1a3-4a12-844e-c1a9a2a900aa",
+      "DisplayName": "DemoWpfEllipsTimer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipseSlidersOk1\bin\Debug\DemoWpfEllipseSlidersOk1.exe.config
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipseSlidersOk1\bin\Debug\DemoWpfEllipseSlidersOk1.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipseSlidersOk1\bin\Debug\DemoWpfEllipseSlidersOk1.pdb
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipseSlidersOk1\obj\Debug\DemoWpfEllipseSlidersOk1.csprojAssemblyReference.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipseSlidersOk1\obj\Debug\MainWindow.g.cs
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipseSlidersOk1\obj\Debug\App.g.cs
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipseSlidersOk1\obj\Debug\DemoWpfEllipseSlidersOk1_MarkupCompile.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipseSlidersOk1\obj\Debug\DemoWpfEllipseSlidersOk1_MarkupCompile.lref
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipseSlidersOk1\obj\Debug\MainWindow.baml
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipseSlidersOk1\obj\Debug\DemoWpfEllipseSlidersOk1.g.resources
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipseSlidersOk1\obj\Debug\DemoWpfEllipseSlidersOk1.Properties.Resources.resources
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipseSlidersOk1\obj\Debug\DemoWpfEllipseSlidersOk1.csproj.GenerateResource.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipseSlidersOk1\obj\Debug\DemoWpfEllipseSlidersOk1.csproj.CoreCompileInputs.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipseSlidersOk1\obj\Debug\DemoWpfEllipseSlidersOk1.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipseSlidersOk1\obj\Debug\DemoWpfEllipseSlidersOk1.pdb

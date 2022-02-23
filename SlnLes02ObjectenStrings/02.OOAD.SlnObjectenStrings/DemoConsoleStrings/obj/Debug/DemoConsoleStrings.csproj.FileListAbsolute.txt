@@ -1,0 +1,13 @@
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\01.OOAD.SlnObjectenStrings\DemoConsoleStrings\bin\Debug\DemoConsoleStrings.exe.config
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\01.OOAD.SlnObjectenStrings\DemoConsoleStrings\bin\Debug\DemoConsoleStrings.exe
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\01.OOAD.SlnObjectenStrings\DemoConsoleStrings\bin\Debug\DemoConsoleStrings.pdb
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\01.OOAD.SlnObjectenStrings\DemoConsoleStrings\obj\Debug\DemoConsoleStrings.csprojAssemblyReference.cache
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\01.OOAD.SlnObjectenStrings\DemoConsoleStrings\obj\Debug\DemoConsoleStrings.exe
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\01.OOAD.SlnObjectenStrings\DemoConsoleStrings\obj\Debug\DemoConsoleStrings.pdb
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoConsoleStrings\bin\Debug\DemoConsoleStrings.exe.config
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoConsoleStrings\bin\Debug\DemoConsoleStrings.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoConsoleStrings\bin\Debug\DemoConsoleStrings.pdb
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoConsoleStrings\obj\Debug\DemoConsoleStrings.csprojAssemblyReference.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoConsoleStrings\obj\Debug\DemoConsoleStrings.csproj.CoreCompileInputs.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoConsoleStrings\obj\Debug\DemoConsoleStrings.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoConsoleStrings\obj\Debug\DemoConsoleStrings.pdb

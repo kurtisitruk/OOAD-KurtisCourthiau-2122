@@ -1,0 +1,15 @@
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsTimer\bin\Debug\DemoWpfEllipsTimer.exe.config
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsTimer\bin\Debug\DemoWpfEllipsTimer.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsTimer\bin\Debug\DemoWpfEllipsTimer.pdb
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsTimer\obj\Debug\DemoWpfEllipsTimer.csprojAssemblyReference.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsTimer\obj\Debug\MainWindow.g.cs
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsTimer\obj\Debug\App.g.cs
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsTimer\obj\Debug\DemoWpfEllipsTimer_MarkupCompile.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsTimer\obj\Debug\DemoWpfEllipsTimer_MarkupCompile.lref
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsTimer\obj\Debug\MainWindow.baml
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsTimer\obj\Debug\DemoWpfEllipsTimer.g.resources
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsTimer\obj\Debug\DemoWpfEllipsTimer.Properties.Resources.resources
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsTimer\obj\Debug\DemoWpfEllipsTimer.csproj.GenerateResource.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsTimer\obj\Debug\DemoWpfEllipsTimer.csproj.CoreCompileInputs.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsTimer\obj\Debug\DemoWpfEllipsTimer.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsTimer\obj\Debug\DemoWpfEllipsTimer.pdb

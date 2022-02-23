@@ -1,0 +1,7 @@
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoConsoleLezenSchrijven\obj\Debug\DemoConsoleLezenSchrijven.csprojAssemblyReference.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoConsoleLezenSchrijven\obj\Debug\DemoConsoleLezenSchrijven.csproj.CoreCompileInputs.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoConsoleLezenSchrijven\bin\Debug\DemoConsoleLezenSchrijven.exe.config
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoConsoleLezenSchrijven\bin\Debug\DemoConsoleLezenSchrijven.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoConsoleLezenSchrijven\bin\Debug\DemoConsoleLezenSchrijven.pdb
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoConsoleLezenSchrijven\obj\Debug\DemoConsoleLezenSchrijven.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoConsoleLezenSchrijven\obj\Debug\DemoConsoleLezenSchrijven.pdb

@@ -1,0 +1,13 @@
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoConsoleTryCatch\bin\Debug\DemoConsoleTryCatch.exe.config
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoConsoleTryCatch\bin\Debug\DemoConsoleTryCatch.exe
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoConsoleTryCatch\bin\Debug\DemoConsoleTryCatch.pdb
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoConsoleTryCatch\obj\Debug\DemoConsoleTryCatch.csprojAssemblyReference.cache
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoConsoleTryCatch\obj\Debug\DemoConsoleTryCatch.exe
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoConsoleTryCatch\obj\Debug\DemoConsoleTryCatch.pdb
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes03BestandenExcepties\DemoConsoleTryCatch\bin\Debug\DemoConsoleTryCatch.exe.config
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes03BestandenExcepties\DemoConsoleTryCatch\bin\Debug\DemoConsoleTryCatch.exe
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes03BestandenExcepties\DemoConsoleTryCatch\bin\Debug\DemoConsoleTryCatch.pdb
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes03BestandenExcepties\DemoConsoleTryCatch\obj\Debug\DemoConsoleTryCatch.csproj.AssemblyReference.cache
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes03BestandenExcepties\DemoConsoleTryCatch\obj\Debug\DemoConsoleTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes03BestandenExcepties\DemoConsoleTryCatch\obj\Debug\DemoConsoleTryCatch.exe
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes03BestandenExcepties\DemoConsoleTryCatch\obj\Debug\DemoConsoleTryCatch.pdb

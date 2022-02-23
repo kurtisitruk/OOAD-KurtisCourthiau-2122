@@ -1,0 +1,20 @@
+﻿<Window x:Class="DemoWpfEllipseSlidersNull.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoWpfEllipseSlidersNull"
+        mc:Ignorable="d"
+        Title="Ellips Sliders null" Height="270" Width="300">
+    <Grid>
+        <Canvas x:Name="canvas1" Width="250" Height="150" Background="#FFF1F1F1" Margin="20,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">
+            <Ellipse x:Name="ellipse1" Width="100" Height="50" Stroke="Blue" Fill="LightBlue"/>
+        </Canvas>
+        <Label Content="Breedte:" HorizontalAlignment="Left" Margin="20,160,0,0" VerticalAlignment="Top"/>
+        <Label Content="Hoogte:" HorizontalAlignment="Left" Margin="20,186,0,0" VerticalAlignment="Top"/>
+        <Slider x:Name="sldWidth" Value="100" Maximum="250" Width="150" ValueChanged="sldHorizontal_ValueChanged" HorizontalAlignment="Left" Margin="85,164,0,0" VerticalAlignment="Top" />
+        <Slider x:Name="sldHeight" Value="50" Maximum="150" Width="150" ValueChanged="sldVertical_ValueChanged" HorizontalAlignment="Left" Margin="85,190,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblWidth" Content="100" HorizontalAlignment="Left" Margin="240,160,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblHeight" Content="50" HorizontalAlignment="Left" Margin="240,186,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

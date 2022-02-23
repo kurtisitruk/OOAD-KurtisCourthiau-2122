@@ -1,0 +1,29 @@
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden.csprojAssemblyReference.cache
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\SlnObjectenStrings\DemoWpfRaden\obj\Debug\MainWindow.g.cs
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\SlnObjectenStrings\DemoWpfRaden\obj\Debug\App.g.cs
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden_MarkupCompile.cache
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden_MarkupCompile.lref
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\SlnObjectenStrings\DemoWpfRaden\bin\Debug\DemoWpfRaden.exe.config
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\SlnObjectenStrings\DemoWpfRaden\bin\Debug\DemoWpfRaden.exe
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\SlnObjectenStrings\DemoWpfRaden\bin\Debug\DemoWpfRaden.pdb
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\SlnObjectenStrings\DemoWpfRaden\obj\Debug\MainWindow.baml
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden.g.resources
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden.Properties.Resources.resources
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden.csproj.GenerateResource.cache
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden.exe
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden.pdb
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfRaden\bin\Debug\DemoWpfRaden.exe.config
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfRaden\bin\Debug\DemoWpfRaden.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfRaden\bin\Debug\DemoWpfRaden.pdb
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden.csprojAssemblyReference.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfRaden\obj\Debug\MainWindow.g.cs
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfRaden\obj\Debug\App.g.cs
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden_MarkupCompile.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden_MarkupCompile.lref
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfRaden\obj\Debug\MainWindow.baml
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden.g.resources
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden.Properties.Resources.resources
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden.csproj.GenerateResource.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden.csproj.CoreCompileInputs.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfRaden\obj\Debug\DemoWpfRaden.pdb

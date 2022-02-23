@@ -1,0 +1,15 @@
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfFolderBrowserDialog\bin\Debug\DemoWpfFolderBrowserDialog.exe.config
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfFolderBrowserDialog\bin\Debug\DemoWpfFolderBrowserDialog.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfFolderBrowserDialog\bin\Debug\DemoWpfFolderBrowserDialog.pdb
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfFolderBrowserDialog\obj\Debug\DemoWpfFolderBrowserDialog.csprojAssemblyReference.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfFolderBrowserDialog\obj\Debug\MainWindow.g.cs
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfFolderBrowserDialog\obj\Debug\App.g.cs
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfFolderBrowserDialog\obj\Debug\DemoWpfFolderBrowserDialog_MarkupCompile.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfFolderBrowserDialog\obj\Debug\DemoWpfFolderBrowserDialog_MarkupCompile.lref
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfFolderBrowserDialog\obj\Debug\MainWindow.baml
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfFolderBrowserDialog\obj\Debug\DemoWpfFolderBrowserDialog.g.resources
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfFolderBrowserDialog\obj\Debug\DemoWpfFolderBrowserDialog.Properties.Resources.resources
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfFolderBrowserDialog\obj\Debug\DemoWpfFolderBrowserDialog.csproj.GenerateResource.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfFolderBrowserDialog\obj\Debug\DemoWpfFolderBrowserDialog.csproj.CoreCompileInputs.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfFolderBrowserDialog\obj\Debug\DemoWpfFolderBrowserDialog.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfFolderBrowserDialog\obj\Debug\DemoWpfFolderBrowserDialog.pdb

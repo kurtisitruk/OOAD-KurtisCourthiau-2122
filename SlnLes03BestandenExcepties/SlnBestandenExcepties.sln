@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoConsoleTryCatch", "DemoConsoleTryCatch\DemoConsoleTryCatch.csproj", "{4A6CD212-AB8A-40F5-9F4D-6AF1825534DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWpfOpenFileDialog", "DemoWpfOpenFileDialog\DemoWpfOpenFileDialog.csproj", "{B2DDC6CB-A3E9-4EE0-8086-F24EC12EAF69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWpfFileInfo", "DemoWpfFileInfo\DemoWpfFileInfo.csproj", "{E3123F7A-EC72-402B-BA17-CEDBE2716819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoConsoleGenerateShiftsCsv", "DemoConsoleGenerateShiftsCsv\DemoConsoleGenerateShiftsCsv.csproj", "{4DACE6E4-87BD-4ECD-BF3A-C7289B4FEEF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWpfFolderBrowserDialog", "DemoWpfFolderBrowserDialog\DemoWpfFolderBrowserDialog.csproj", "{15C0DBD7-6E19-4D3C-ACFD-C5B12B741175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoConsoleLezenSchrijven", "DemoConsoleLezenSchrijven\DemoConsoleLezenSchrijven.csproj", "{780E75B9-AB51-4BD9-A0A7-AC9B7D38F8BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A6CD212-AB8A-40F5-9F4D-6AF1825534DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6CD212-AB8A-40F5-9F4D-6AF1825534DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6CD212-AB8A-40F5-9F4D-6AF1825534DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6CD212-AB8A-40F5-9F4D-6AF1825534DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2DDC6CB-A3E9-4EE0-8086-F24EC12EAF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DDC6CB-A3E9-4EE0-8086-F24EC12EAF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DDC6CB-A3E9-4EE0-8086-F24EC12EAF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DDC6CB-A3E9-4EE0-8086-F24EC12EAF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3123F7A-EC72-402B-BA17-CEDBE2716819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3123F7A-EC72-402B-BA17-CEDBE2716819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3123F7A-EC72-402B-BA17-CEDBE2716819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3123F7A-EC72-402B-BA17-CEDBE2716819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DACE6E4-87BD-4ECD-BF3A-C7289B4FEEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DACE6E4-87BD-4ECD-BF3A-C7289B4FEEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DACE6E4-87BD-4ECD-BF3A-C7289B4FEEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DACE6E4-87BD-4ECD-BF3A-C7289B4FEEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C0DBD7-6E19-4D3C-ACFD-C5B12B741175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C0DBD7-6E19-4D3C-ACFD-C5B12B741175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C0DBD7-6E19-4D3C-ACFD-C5B12B741175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C0DBD7-6E19-4D3C-ACFD-C5B12B741175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{780E75B9-AB51-4BD9-A0A7-AC9B7D38F8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780E75B9-AB51-4BD9-A0A7-AC9B7D38F8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780E75B9-AB51-4BD9-A0A7-AC9B7D38F8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780E75B9-AB51-4BD9-A0A7-AC9B7D38F8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1484169C-3199-47B2-95DC-22ED0DB6A750}
+	EndGlobalSection
+EndGlobal

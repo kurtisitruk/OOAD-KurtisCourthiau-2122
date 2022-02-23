@@ -1,0 +1,29 @@
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\Solution1\DemoWpfEllipsSliders\bin\Debug\DemoWpfEllipsSliders.exe.config
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\Solution1\DemoWpfEllipsSliders\bin\Debug\DemoWpfEllipsSliders.exe
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\Solution1\DemoWpfEllipsSliders\bin\Debug\DemoWpfEllipsSliders.pdb
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\Solution1\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders.csprojAssemblyReference.cache
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\Solution1\DemoWpfEllipsSliders\obj\Debug\MainWindow.g.cs
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\Solution1\DemoWpfEllipsSliders\obj\Debug\App.g.cs
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\Solution1\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders_MarkupCompile.cache
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\Solution1\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders_MarkupCompile.lref
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\Solution1\DemoWpfEllipsSliders\obj\Debug\MainWindow.baml
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\Solution1\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders.g.resources
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\Solution1\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders.Properties.Resources.resources
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\Solution1\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders.csproj.GenerateResource.cache
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\Solution1\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders.exe
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\les01\Solution1\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders.pdb
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsSliders\bin\Debug\DemoWpfEllipsSliders.exe.config
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsSliders\bin\Debug\DemoWpfEllipsSliders.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsSliders\bin\Debug\DemoWpfEllipsSliders.pdb
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders.csprojAssemblyReference.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsSliders\obj\Debug\MainWindow.g.cs
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsSliders\obj\Debug\App.g.cs
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders_MarkupCompile.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders_MarkupCompile.lref
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsSliders\obj\Debug\MainWindow.baml
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders.g.resources
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders.Properties.Resources.resources
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders.csproj.GenerateResource.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders.csproj.CoreCompileInputs.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnObjectenStrings\DemoWpfEllipsSliders\obj\Debug\DemoWpfEllipsSliders.pdb

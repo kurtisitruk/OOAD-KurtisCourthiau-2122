@@ -1,0 +1,29 @@
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\bin\Debug\DemoWpfOpenFileDialog.exe.config
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\bin\Debug\DemoWpfOpenFileDialog.exe
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\bin\Debug\DemoWpfOpenFileDialog.pdb
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog.csprojAssemblyReference.cache
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\MainWindow.g.cs
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\App.g.cs
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog_MarkupCompile.cache
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog_MarkupCompile.lref
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\MainWindow.baml
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog.g.resources
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog.Properties.Resources.resources
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog.csproj.GenerateResource.cache
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog.exe
+C:\Users\rogie\odrive\Google Drive\Team Drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\02.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog.pdb
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\bin\Debug\DemoWpfOpenFileDialog.exe.config
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\bin\Debug\DemoWpfOpenFileDialog.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\bin\Debug\DemoWpfOpenFileDialog.pdb
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog.csprojAssemblyReference.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\MainWindow.g.cs
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\App.g.cs
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog_MarkupCompile.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog_MarkupCompile.lref
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\MainWindow.baml
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog.g.resources
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog.Properties.Resources.resources
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog.csproj.GenerateResource.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog.csproj.CoreCompileInputs.cache
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog.exe
+G:\Shared drives\OPLINF\OPLTI OPO's\Sem2\OO Application Development\03.OOAD.SlnBestandenExcepties\DemoWpfOpenFileDialog\obj\Debug\DemoWpfOpenFileDialog.pdb

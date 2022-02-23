@@ -1,0 +1,5 @@
+C:\Users\kurti\source\repos\WpfTimer\WpfTimer\obj\Debug\WpfTimer.csproj.AssemblyReference.cache
+C:\Users\kurti\source\repos\WpfTimer\WpfTimer\obj\Debug\MainWindow.g.cs
+C:\Users\kurti\source\repos\WpfTimer\WpfTimer\obj\Debug\App.g.cs
+C:\Users\kurti\source\repos\WpfTimer\WpfTimer\obj\Debug\WpfTimer_MarkupCompile.cache
+C:\Users\kurti\source\repos\WpfTimer\WpfTimer\obj\Debug\WpfTimer_MarkupCompile.lref
