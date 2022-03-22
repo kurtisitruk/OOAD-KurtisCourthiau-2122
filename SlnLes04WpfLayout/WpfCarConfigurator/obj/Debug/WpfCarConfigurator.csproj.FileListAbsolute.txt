@@ -1,0 +1,15 @@
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes04WpfLayout\WpfCarConfigurator\obj\Debug\WpfCarConfigurator.csproj.AssemblyReference.cache
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes04WpfLayout\WpfCarConfigurator\obj\Debug\App.g.cs
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes04WpfLayout\WpfCarConfigurator\obj\Debug\WpfCarConfigurator_MarkupCompile.cache
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes04WpfLayout\WpfCarConfigurator\bin\Debug\WpfCarConfigurator.exe.config
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes04WpfLayout\WpfCarConfigurator\bin\Debug\WpfCarConfigurator.exe
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes04WpfLayout\WpfCarConfigurator\bin\Debug\WpfCarConfigurator.pdb
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes04WpfLayout\WpfCarConfigurator\obj\Debug\MainWindow.g.cs
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes04WpfLayout\WpfCarConfigurator\obj\Debug\WpfCarConfigurator_MarkupCompile.lref
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes04WpfLayout\WpfCarConfigurator\obj\Debug\MainWindow.baml
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes04WpfLayout\WpfCarConfigurator\obj\Debug\WpfCarConfigurator.g.resources
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes04WpfLayout\WpfCarConfigurator\obj\Debug\WpfCarConfigurator.Properties.Resources.resources
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes04WpfLayout\WpfCarConfigurator\obj\Debug\WpfCarConfigurator.csproj.GenerateResource.cache
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes04WpfLayout\WpfCarConfigurator\obj\Debug\WpfCarConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes04WpfLayout\WpfCarConfigurator\obj\Debug\WpfCarConfigurator.exe
+C:\Users\kurti\OneDrive\Documents\GitHub\OOAD-KurtisCourthiau-2122\SlnLes04WpfLayout\WpfCarConfigurator\obj\Debug\WpfCarConfigurator.pdb
